@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e8a91f1-6166-4168-9f1e-bbea157ab2db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Linkedin_Learning_Building_Deep_Learning_Apps.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/03/create_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/03/create_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Files/03/preprocess_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/03/preprocess_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/04/load_saved_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/04/load_saved_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/04/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/04/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/04/save_trained_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/04/save_trained_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/04/train_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/04/train_model.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="create_model" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="load_saved_model" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Linkedin_Learning_Building_Deep_Learning_Apps" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,11 +39,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Files/03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise Files/04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="false" />
       <option name="ADD_SOURCE_ROOTS" value="false" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Files/03/create_model.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Files/04/load_saved_model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
